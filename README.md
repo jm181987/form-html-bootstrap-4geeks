@@ -1,26 +1,23 @@
-# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
+# Formulario HTML con Bootstrap
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
+Ejercicio de interfaz web centrado en la estructura de un formulario y su presentación adaptable.
 
-The most basic boilerplate for any 4Geeks Academy student using the [gitpod.io](gitpod.io) coding editor.
+## Tecnologías
 
-[![How to open html/css preview of my project in gitpod](https://github.com/4GeeksAcademy/Templates-Boilerplates/blob/master/assets/hello-html-intro.png?raw=true)](https://youtu.be/dfbDCMu_p-0)
+HTML, CSS y Bootstrap (según los archivos del proyecto).
 
-## What to do next?
+## Instalación y uso
 
-Create an `index.html` file with the [basic HTML structure](http://content.breatheco.de/lesson/what-is-html-learn-html#page-structure) and see it live by running a web-server using the following command:
+Abre el documento HTML principal en un navegador. Si utilizas un servidor local, sirve la carpeta raíz del proyecto.
 
-```sh
-$ pip3 install flask && python3 server.py
-```
+Repositorio: https://github.com/jm181987/form-html-bootstrap-4geeks
 
-- You can create as many HTML files as you want
-- You can also create CSS files and import them into your website using a `<link>` tag placed between the `<head></head>` tags, like this:
+## Seguridad y mantenimiento
 
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
-```
+- No subas credenciales, tokens ni archivos de entorno.
+- Comprueba la configuración y los requisitos reales antes del despliegue.
+- Documenta incidencias y mejoras con pasos reproducibles.
+
+## Créditos
+
+Repositorio mantenido por **KNJ** · [KNJ Marketing](https://www.marketingknj.site/).
